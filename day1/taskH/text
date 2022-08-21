@@ -1,0 +1,25 @@
+H. Хитрая сумма
+Time limit	1 секунда
+Memory limit	64Mb
+Input	stdin or input.txt
+Output	stdout or output.txt
+
+Legend
+Напишите программу, которая считывает 2 числа
+A, B ∈ N
+и подсчитывает квадрат суммы этих чисел
+(A+B)2
+
+Sample 1
+Input
+1
+0
+Output
+1
+
+Sample 2
+Input
+2
+2
+Output
+16
