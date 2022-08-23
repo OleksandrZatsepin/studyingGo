@@ -11,15 +11,11 @@ A, B ∈ N
 (A+B)2
 
 Sample 1
-Input
-1
+Input           Output
+1               1
 0
-Output
-1
 
 Sample 2
-Input
+Input           Output
+2               16
 2
-2
-Output
-16
