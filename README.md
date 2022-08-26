@@ -4,19 +4,40 @@
 
 День 1. 	
 - https://contest.yandex.ru/contest/25606/problems
-Задачи A - H
+
+  Обязательные задачи: A - H
 
 День 2. 	
 - https://contest.yandex.ru/contest/25606/problems
-Задачи I - N
+
+  Обязательные задачи: I - N
 - https://contest.yandex.ru/contest/25622/problems
-Задачи A, B
+
+  Обязательные задачи: A, B
 
 День 3.
 - https://contest.yandex.ru/contest/25622/problems
 
-    Задачи С, D, E, G, I, L
+  Обязательные задачи: С, D, E, G, I, L
+  
+  Дополнительные задачи: F, M
 
-    Дополнительные задачи	F, M
+  Повышенной сложности:	K
 
-    Повышенной сложности	K
+День 4.
+- https://contest.yandex.ru/contest/25667/problems
+
+  Обязательные задачи: A, H, I
+
+День 5.
+- https://contest.yandex.ru/contest/25667/problems
+
+  Обязательные задачи: B, С, D, E, F, G
+  
+  Дополнительные задачи: J
+
+
+
+### Финальное задание.
+
+- https://contest.yandex.ru/contest/19034/problems

@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"fmt"
 	"os"
 	"strconv"
 )
@@ -38,8 +39,6 @@ func main() {
 				sum = sum + s
 			}
 		}
-		println(sum)
+		fmt.Print(sum)
 	}
 }
-
-// Почему неверный ответ???
